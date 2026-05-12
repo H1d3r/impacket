@@ -63,8 +63,6 @@ https://github.com/fortra/impacket/commits/master
     * Removed the run-time dependency on setuptools. ([#2102](https://github.com/fortra/impacket/issues/2102))
     * Removed remaining Python 2 compatibility code from WMI and ESE modules. ([#1804](https://github.com/fortra/impacket/issues/1804))
 
-5. Contributors
-
 As always, thanks a lot to all these contributors that make this library better every day:
 
 @0xpaperman, @7own, @aconite33, @aelmosalamy, @alexisbalbachan, @anadrianmanrique, @AndreySolod, @azoxlpf, @bash-c, @blankshiro, @chand-ashok, @cjwatson, @Coontzy1, @Croumi, @CSpanias, @ctjf, @Defte_, @DidierA, @epotseluevskaya, @fulc2um, @gabrielg5, @Gaffner, @Herbenderbler, @i-am-not-an-ai, @john57, @laxaa, @laxa, @maple, @masterDeus, @Mayyhem, @n3rada, @NeffIsBack, @NtAlexio2, @omry99, @pazurro, @plur1bu5, @Q2Flc2FySec, @romern, @r3seh, @rtpt-romankarwacik, @sbuck1, @ThatTotallyRealMyth, @TheFlamingCrab, @tomik92, @Tw1sm.
